@@ -1,5 +1,5 @@
 # K-medias
 
-##Implementacion del algoritmo k medias usando Java 8.
+Implementacion del algoritmo k medias usando Java 8.
 
-##Librerias usadas: tablesaw.
+Librerias usadas: tablesaw.
